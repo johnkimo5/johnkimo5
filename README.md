@@ -2,5 +2,6 @@ I'm John, a GT student majoring in Computer Engineering, with a focus on distrib
 
 
 You can reach me at johnk@gatech.edu or kimjohndev@gmail.com
-[john](https://johnkimo5.github.io/)
+
+[website](https://johnkimo5.github.io/)
 
