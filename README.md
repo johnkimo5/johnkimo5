@@ -1,4 +1,4 @@
-I'm John, a GT student majoring in Computer Engineering, with a focus on distributed systems and system architecture. I'm also pursuing a minor in math!
+I'm John, a GT student majoring in Computer Science, with a focus on Artificial Intelligence and Systems & Architecture. I'm also pursuing a minor in math!
 
 
 You can reach me at johnk@gatech.edu or kimjohndev@gmail.com
