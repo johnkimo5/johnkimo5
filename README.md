@@ -1,3 +1,1 @@
-- CS major at Georgia Tech with focus in AI + Systems & Architecture, Math Minor
-- [website](https://seungjinkim.com/)
-
+https://seungjinkim.com
